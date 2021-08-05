@@ -1,4 +1,4 @@
-# Body-Mass-Index
+# Body-Mass-Index Calculator
 
 # 🚨 Don't change the code below 👇
 
